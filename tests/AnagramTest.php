@@ -1,9 +1,6 @@
 <?php
 
-//require_once realpath("/vendor/autoload.php");
-//require(__DIR__ . "/../src/Anagram.php");
 require(__DIR__ . "/../vendor/autoload.php");
-
 
 use LeadDeskTasks\Anagram\CheckAnagram;
 use PHPUnit\Framework\TestCase;
